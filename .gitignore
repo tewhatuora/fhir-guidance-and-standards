@@ -3,5 +3,7 @@ Thumbs.db
 /fsh-generated
 /input-cache
 /output
+!/output/full-ig.zip
 /temp
 /template
+
