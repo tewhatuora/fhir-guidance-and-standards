@@ -1,0 +1,1 @@
+# IG Standards – content requirements

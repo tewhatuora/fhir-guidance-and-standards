@@ -1,0 +1,1 @@
+# When to use FHIR and when not to use FHIR
