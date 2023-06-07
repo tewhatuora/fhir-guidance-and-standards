@@ -76,7 +76,17 @@ publisher:
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
   Home: index.html
-  Artifacts: artifacts.html
+  FHIR @ Te Whatu Ora: introduction.html
+    FHIR Benefits: fhir-benefits.html
+    When to use FHIR: when-to-fhir.html
+  Governance: governance.html
+  Standards: standards.html
+    Implementation standards: implementation-standards.html
+    IG standards: ig-standards.html
+  NZ Base & existing collateral: existing-collateral.html
+    NZ Base: nzbase.html
+    NZ FHIR Implementations: nz-implementations.html
+
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
 # │  Uncomment the properties below to configure additional properties on the ImplementationGuide  │
