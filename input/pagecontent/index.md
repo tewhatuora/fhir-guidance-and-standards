@@ -1,9 +1,5 @@
 # Guidance and Standards for FHIR implementation at Te Whatu Ora
 
-## Intro
-
-This site contains guidance and standards intended for use by implementers (or potential implementers) of FHIR at Te Whatu Ora and partner organisations which work with Health NZ. 
-
 ## Table of Contents
 
 **Guidance**
