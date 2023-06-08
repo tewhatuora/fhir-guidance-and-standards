@@ -86,9 +86,8 @@ menu:
     Introduction: standards.html
     Implementation standards: implementation-standards.html
     IG standards: ig-standards.html
-  NZ Base & existing collateral: 
-    NZ Base: nzbase.html
-    NZ FHIR Implementations: nz-implementations.html
+  NZ Base: nzbase.html
+  NZ FHIR Implementations: nz-implementations.html
 
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
