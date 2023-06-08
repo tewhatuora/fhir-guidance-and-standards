@@ -74,16 +74,19 @@ publisher:
 # │ input/includes. To use a provided input/includes/menu.xml file, delete the "menu"              │
 # │ property below.                                                                                │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
+
 menu:
   Home: index.html
-  FHIR @ Te Whatu Ora: introduction.html
-    FHIR Benefits: fhir-benefits.html
+  Guidance: 
+    FHIR at Te Whatu Ora: introduction.html
     When to use FHIR: when-to-fhir.html
-  Governance: governance.html
-  Standards: standards.html
+    FHIR benefits: fhir-benefits.html
+    Governance process: governance.html
+  Standards: 
+    Introduction: standards.html
     Implementation standards: implementation-standards.html
     IG standards: ig-standards.html
-  NZ Base & existing collateral: existing-collateral.html
+  NZ Base & existing collateral: 
     NZ Base: nzbase.html
     NZ FHIR Implementations: nz-implementations.html
 
