@@ -1,7 +1,7 @@
 # Implementation standards
 
 
-9\. Naming standards for defining Canonical URLs
+Naming standards for defining Canonical URLs
 ------------------------------------------------
 
 In FHIR, creation of [Canonical Resources](https://build.fhir.org/canonicalresource.html "https://build.fhir.org/canonicalresource.html") are an important part of the profiling process - 'canonical' in this context meaning roughly that the resources describe the definition or rules for how to use something. For example, an instance of a ValueSet resource describes the codes and their descriptions that are valid for use in a particular context, and an instance of a StructureDefinition resource is used to describe the data and structure of an extension.
