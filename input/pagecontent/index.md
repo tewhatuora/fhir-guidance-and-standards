@@ -3,7 +3,7 @@
 ## Table of Contents
 
 **Guidance**
-- [Introduction to FHIR at Te Whatu Ora]()
+- [Introduction to FHIR at Te Whatu Ora](introduction.html)
 - [When to use FHIR and when not to use FHIR]()
 - [FHIR benefits]()
 - [Governance process and expectations for Te Whatu Ora implementations]()
