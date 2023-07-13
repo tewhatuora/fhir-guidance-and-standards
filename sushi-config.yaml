@@ -43,11 +43,12 @@ publisher:
 # with supported extensions (e.g., .md/.xml) will be treated as
 # sub-pages.
 #
- pages:
-   index.md:
-     title: Guidance and Standards for FHIR Implementation at Te Whatu Ora
-   introduction.md:
-     title: Introduction to FHIR for Te Whatu Ora
+pages:
+  index.md:
+    title: Guidance and Standards for FHIR Implementation at Te Whatu Ora
+  introduction.md:
+    title: Introduction to FHIR for Te Whatu Ora
+
 #   examples.xml:
 #     title: Examples Overview
 #     simpleExamples.xml:
