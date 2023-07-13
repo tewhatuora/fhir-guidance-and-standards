@@ -1,5 +1,3 @@
-# Guidance and Standards for FHIR implementation at Te Whatu Ora
-
 ## Table of Contents
 
 **Guidance**

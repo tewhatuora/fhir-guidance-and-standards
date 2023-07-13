@@ -48,6 +48,27 @@ pages:
     title: Guidance and Standards for FHIR Implementation at Te Whatu Ora
   introduction.md:
     title: Introduction to FHIR for Te Whatu Ora
+  when-to-fhir.md: 
+    title: When and when not to use FHIR 
+  fhir-benefits.md:
+    title: FHIR benefits
+  governance.md:
+    title: Governance process and expectations for Te Whatu Ora FHIR implementations
+  standards.md:
+    title: Standards for FHIR Implementation in the NZ and Te Whatu Ora context
+  implementation-standards.md:
+    title: Te Whatu Ora FHIR Implementation Standards
+  ig-standards.md:
+    title: IG Standards and content requirements
+  nzbase.md:
+    title: NZ Base FHIR IG and working group process
+  terminology.md: 
+    title: NZ Health Terminology service
+  nz-implementations.md:
+    title: Existing NZ FHIR implementations & collateral
+  
+  
+  
 
 #   examples.xml:
 #     title: Examples Overview
